@@ -1,9 +1,9 @@
 {
-  "version_code": 0,
-  "version_name": "0",
-  "url": "",
-  "size": 0,
-  "sha256": "",
-  "notes": "initialisasi",
+  "version_code": 65,
+  "version_name": "1.1.65",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.65/SiFathin-1.1.65.apk",
+  "size": 8012654,
+  "sha256": "cc3035f68767da937fe846fdf4643a743b47f144946107d5c783e06dff9b67e4",
+  "notes": "Tanpa izin akses-semua-file; lolos pemindaian Play Protect. Ekspor dokumen ke Download/folder pilihan.",
   "mandatory": false
 }
