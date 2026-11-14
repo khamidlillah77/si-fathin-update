@@ -1,9 +1,9 @@
 {
-  "version_code": 72,
-  "version_name": "1.1.72",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.72/SiFathin-1.1.72.apk",
-  "size": 8018066,
-  "sha256": "9dc23066439000b33f2281c152f0271694521f04505d5248da1240772fe7a557",
-  "notes": "Deteksi pengulangan AI (tool+args sama 3x beruntun). maxSteps default 30. Python3+pip+python-docx terpasang otomatis.",
+  "version_code": 73,
+  "version_name": "1.1.73",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.73/SiFathin-1.1.73.apk",
+  "size": 8020042,
+  "sha256": "521a062d0732b98989ebb2412e8dfa786448160367facd088eb38efd5f650939",
+  "notes": "Perbaikan akar 'tiba-tiba selesai': kompaksi gagal tidak lagi mematikan tugas. Buku catatan aksi mencegah AI mengulang langkah yang sudah selesai. maxSteps tidak dibatasi.",
   "mandatory": false
 }
