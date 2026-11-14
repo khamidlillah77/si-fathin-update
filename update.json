@@ -1,9 +1,9 @@
 {
-  "version_code": 74,
-  "version_name": "1.1.74",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.74/SiFathin-1.1.74.apk",
-  "size": 8020050,
-  "sha256": "f1c6edc7134c85f3f657dd9689d3a20acd2c9b5bcea3a9b6cf22578f49db6348",
-  "notes": "PenjagaLoop teruji: loop terdeteksi langkah 3-5, tugas 300 langkah tetap jalan. Kompaksi gagal tidak lagi mematikan tugas. maxSteps tidak dibatasi.",
+  "version_code": 75,
+  "version_name": "1.1.75",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.75/SiFathin-1.1.75.apk",
+  "size": 8385416,
+  "sha256": "59420f8fef8226a5071f45aa0bf585d2ea9936c608ae1b577cb031b9b493b3b9",
+  "notes": "Python provisioning jujur (FATHIN_EXIT), retry dependensi, brief skripsi hanya kunci yang berdampak, QA struktur BAB, sitasi tanpa artefak tanda baca. Signing V1/V2/V3.",
   "mandatory": false
 }
