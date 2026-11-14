@@ -1,9 +1,9 @@
 {
-  "version_code": 67,
-  "version_name": "1.1.67",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.67/SiFathin-1.1.67.apk",
-  "size": 8009438,
-  "sha256": "562ce9cafa5cd3ee73767cd02e5eb0eeab37d1c1b75c653e13203fc204de7fce",
-  "notes": "Termux dihapus total: tanpa queries com.termux, tanpa jembatan RUN_COMMAND. Shell = sandbox Ubuntu bawaan saja. Tanpa izin akses-semua-file.",
+  "version_code": 68,
+  "version_name": "1.1.68",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.68/SiFathin-1.1.68.apk",
+  "size": 8012538,
+  "sha256": "32500b57652902b743bcdeb10dbc6710a46d89468b0be0683dea5a84a6239f2f",
+  "notes": "Perbaikan: pemasangan Ubuntu di HP baru selalu gagal (bug binding /sdcard). Dialog update: Perbarui sekarang / Nanti (diingatkan besok) / Lewati.",
   "mandatory": false
 }
