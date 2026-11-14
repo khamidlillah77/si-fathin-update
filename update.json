@@ -1,9 +1,9 @@
 {
-  "version_code": 70,
-  "version_name": "1.1.70",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.70/SiFathin-1.1.70.apk",
-  "size": 8016266,
-  "sha256": "c74b2b990bcb2105038fec4271df155d66f2f74f3b6a91f1b55afc48d058458e",
-  "notes": "Perbaikan write_file EISDIR (resolve salah tangani /sdcard/). Tombol Lanjutkan untuk melanjutkan proses AI yang terputus tanpa buang token.",
+  "version_code": 71,
+  "version_name": "1.1.71",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.71/SiFathin-1.1.71.apk",
+  "size": 8015710,
+  "sha256": "e04b9706f51b52da9b0dc58d32c2de23606a8bcdda0d8af8936d7babd25b1b4e",
+  "notes": "Dialog update kini muncul saat aplikasi dibuka (interval 12 jam dihapus). Timer detik dihapus dari status AI.",
   "mandatory": false
 }
