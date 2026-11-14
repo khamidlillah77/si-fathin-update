@@ -1,9 +1,9 @@
 {
-  "version_code": 73,
-  "version_name": "1.1.73",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.73/SiFathin-1.1.73.apk",
-  "size": 8020042,
-  "sha256": "521a062d0732b98989ebb2412e8dfa786448160367facd088eb38efd5f650939",
-  "notes": "Perbaikan akar 'tiba-tiba selesai': kompaksi gagal tidak lagi mematikan tugas. Buku catatan aksi mencegah AI mengulang langkah yang sudah selesai. maxSteps tidak dibatasi.",
+  "version_code": 74,
+  "version_name": "1.1.74",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.74/SiFathin-1.1.74.apk",
+  "size": 8020050,
+  "sha256": "f1c6edc7134c85f3f657dd9689d3a20acd2c9b5bcea3a9b6cf22578f49db6348",
+  "notes": "PenjagaLoop teruji: loop terdeteksi langkah 3-5, tugas 300 langkah tetap jalan. Kompaksi gagal tidak lagi mematikan tugas. maxSteps tidak dibatasi.",
   "mandatory": false
 }
