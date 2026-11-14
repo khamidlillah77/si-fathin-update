@@ -1,9 +1,9 @@
 {
-  "version_code": 75,
-  "version_name": "1.1.75",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.75/SiFathin-1.1.75.apk",
-  "size": 8385416,
-  "sha256": "59420f8fef8226a5071f45aa0bf585d2ea9936c608ae1b577cb031b9b493b3b9",
-  "notes": "Python provisioning jujur (FATHIN_EXIT), retry dependensi, brief skripsi hanya kunci yang berdampak, QA struktur BAB, sitasi tanpa artefak tanda baca. Signing V1/V2/V3.",
+  "version_code": 76,
+  "version_name": "1.1.76",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.76/SiFathin-1.1.76.apk",
+  "size": 8386984,
+  "sha256": "0c7e3ddb54aa9f6af62680f4ff8f868bc1288c4d98d474d89f5a6abfea0fba1b",
+  "notes": "ask_user jadi kartu inline di chat (chip pilihan, multi-pilihan, ketik bebas) — bukan dialog popup; tombol 'Lewati' ganda dihapus; provisioning Python jujur + retry dependensi; brief skripsi hanya yang berdampak; sitasi tanpa artefak tanda baca; QA tolak skripsi tanpa BAB. Signing V1/V2/V3.",
   "mandatory": false
 }
