@@ -1,9 +1,9 @@
 {
-  "version_code": 68,
-  "version_name": "1.1.68",
-  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.68/SiFathin-1.1.68.apk",
-  "size": 8012538,
-  "sha256": "32500b57652902b743bcdeb10dbc6710a46d89468b0be0683dea5a84a6239f2f",
-  "notes": "Perbaikan: pemasangan Ubuntu di HP baru selalu gagal (bug binding /sdcard). Dialog update: Perbarui sekarang / Nanti (diingatkan besok) / Lewati.",
+  "version_code": 69,
+  "version_name": "1.1.69",
+  "url": "https://github.com/khamidlillah77/si-fathin-update/releases/download/v1.1.69/SiFathin-1.1.69.apk",
+  "size": 8015210,
+  "sha256": "1c4e12a15bd497b175a97a294408f704af2adb2e7708170fffc6269a7ec4f412",
+  "notes": "Perbaikan tombol Batalkan unduhan update (sebelumnya hanya menutup dialog, unduhan terus jalan dan installer terbuka sendiri). Tombol Batal kini memutus koneksi, membuang berkas parsial, dan tidak membuka installer. Perbaikan lanjutan dari bug sandbox 1.1.65-67.",
   "mandatory": false
 }
